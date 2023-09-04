@@ -4,9 +4,10 @@ body {
 
 h2 {
     color: rgb(194, 198, 198);
-    height:fit-content;
+    font-size: 50px;
 }
 
 button {
     color: black;
+    font-size: 40px;
 }
